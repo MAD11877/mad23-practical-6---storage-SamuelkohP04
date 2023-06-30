@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">practical6DBHandler</string>
+    <string name="btn1">Follow</string>
+    <string name="btn2">Message</string>
+
+    <string name="follow">Follow</string>
+    <string name="unfollow">Unfollow</string>
+
+    <string name="followed_placeholder">Followed</string>
+    <string name="unfollowed_placeholder">Not followed</string>
+</resources>
