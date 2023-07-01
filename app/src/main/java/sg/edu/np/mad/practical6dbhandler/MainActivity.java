@@ -75,6 +75,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        messageButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, MessageGroup.class);
+                startActivity(intent);
+            }
+        });
+
         dbHandler = new MyDBHandler(this, null, null, 1);
         dbHandler.updateUser(user);
         logAllUsers();

@@ -5,7 +5,22 @@
 
     <string name="follow">Follow</string>
     <string name="unfollow">Unfollow</string>
-
+    <string name="btnGroup1">GROUP 1</string>
+    <string name="btnGroup2">GROUP 2</string>
     <string name="followed_placeholder">Followed</string>
     <string name="unfollowed_placeholder">Not followed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="loginPageTitle">Login</string>
+    <string name="usernameText">Username</string>
+    <string name="passwordText">Password</string>
+    <string name="loginButtonText">Login</string>
+    <string name="newUserText">New User? Click Here!</string>
+
+    <string name="createAcctTitle">Create Account</string>
+    <string name="confirmCreationText">Create</string>
+    <string name="cancelCreationText">Cancel</string>
+
+    <string name="mainLandingPageTitle">Main Page</string>
 </resources>

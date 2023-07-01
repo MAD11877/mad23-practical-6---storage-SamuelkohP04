@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Practical6DBHandler"
         tools:targetApi="31">
         <activity
+            android:name=".Signup"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
@@ -24,6 +27,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".MessageGroup"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
     </application>
 
 </manifest>
